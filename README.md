@@ -1,9 +1,6 @@
-you didn't actually have to read me lmao
-
-
-
 Keybinds for anyone wondering:
 
-CTRL + X = Open Terminal 
+SUPER (Windows Key) + X = Open Terminal 
+ALT + Drag = Move Window
+SUPER (Windows Key) + Drag = Resize Window
 CTRL + Z (disabled by default) = Toggle Floating Window
-ALT = Move Window
